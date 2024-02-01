@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RP-protfolio tutorial "https://realpython.com/get-started-with-django-1/"
 
 ## Project Overview
@@ -218,3 +219,7 @@
         Running migrations:
             Applying projects.0002_project_image... OK
     ```
+=======
+# rp-portfolio
+First personal project with Django
+>>>>>>> origin/main
